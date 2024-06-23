@@ -3,7 +3,7 @@
 
 # Test Langflow
 
-In this repo, we instantiate langflow and play with it.
+In this repo, there is an instantiate of langflow for playing with it.
 
 For this usecase, we build a RAG that reads our pdf document.
 
