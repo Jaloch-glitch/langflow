@@ -38,4 +38,5 @@ poetry install --no-root
 poetry shell
 Run langflow:
 
+to inialise the project
 langflow run
